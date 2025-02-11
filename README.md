@@ -6,3 +6,5 @@ This Chrome extension helps users stay focused on YouTube by blurring video sugg
 ✅ Keeps the search bar and sidebar visible (History, Library, Subscriptions, etc.)
 ✅ Toggle button to enable or disable the blur effect
 ✅ Easy to install and lightweight
+
+Created by NISHIT KUMAR
