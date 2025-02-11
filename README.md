@@ -7,4 +7,7 @@ This Chrome extension helps users stay focused on YouTube by blurring video sugg
 ✅ Toggle button to enable or disable the blur effect
 ✅ Easy to install and lightweight
 
+#how to use:
+load this extension  on chrome extension by using developer option
+
 Created by NISHIT KUMAR
