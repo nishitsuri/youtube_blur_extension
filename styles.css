@@ -1,0 +1,13 @@
+/* Apply a strong blur to video thumbnails and suggestions */
+.blur-homepage #contents.ytd-rich-grid-renderer,
+.blur-homepage #secondary {
+  filter: blur(20px); /* Increased blur density */
+  pointer-events: none; /* Prevents interaction with blurred elements */
+}
+
+/* Keep the search bar and left sidebar clear */
+.blur-homepage #search,
+.blur-homepage #guide {
+  filter: none !important;
+  pointer-events: auto; /* Allows interaction */
+}
